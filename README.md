@@ -15,3 +15,7 @@ Kryteria:
 | 9 | użytkowanie terenu | Nie ‘G’, ‘E’, ‘M’, ‘T’, ‘F’, ‘Fb’, ‘Fc’, ‘FG’ | Baza danych glebowo-rolnicza |
 | 10 | przydatne działki → obszary | 1 - 6 ha | EGiB |
 | 11 | kształt obszaru | jak najbardziej zwarty | - |
+
+W skrypcie zastosowano dwa podejścia:
+- kryteria otrzymują równe wagi podczas łączenia.
+- kryteria otrzymują różne, ustalone wagi podczas łączenia.
