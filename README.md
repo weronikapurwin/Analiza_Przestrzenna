@@ -19,3 +19,8 @@ Kryteria:
 W skrypcie zastosowano dwa podejścia:
 - kryteria otrzymują równe wagi podczas łączenia.
 - kryteria otrzymują różne, ustalone wagi podczas łączenia.
+
+Przykładowy wynik selekcji działki dla wag o równych wagach z najbardziej zwartym kształtem:
+
+![image](https://user-images.githubusercontent.com/92334838/224555388-ac67948a-c5f2-4e54-80a5-61c1123d7e92.png)
+
